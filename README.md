@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aphiwe Mkhwanazi</h1>
 <h3 align="center">A passionate Aspiring Software Engineer.</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZwMWJwdXd0bDk5eTlsNnhjYjdtdDRoamtlYTF4eWsxdWg4Zno3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif”
+<img align=“right” alt=“Coding” width=“400” src=“https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZwMWJwdXd0bDk5eTlsNnhjYjdtdDRoamtlYTF4eWsxdWg4Zno3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif”>
 
 - 🔭 I’m currently working on **South African Governmental healthcare system**
 
