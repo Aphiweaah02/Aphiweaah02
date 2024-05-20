@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.dropbox.com/scl/fi/fq3ev2ui62oeylauoad3k/White-Minimalist-Profile-LinkedIn-Banner.png?rlkey=w1ag477zvmpa17k759nxtika6&st=3jbqveap&dl=0)]
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/004/815/622/non_2x/software-development-programming-language-coding-3d-isometric-laptop-computer-with-digital-application-isolated-on-white-background-design-vector.jpg)]
 
 <h1 align="center">Hi 👋, I'm Aphiwe Mkhwanazi</h1>
 <h3 align="center">A passionate Aspiring Software Engineer.</h3>
